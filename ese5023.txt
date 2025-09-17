@@ -1,0 +1,4 @@
+# This is python code
+
+x = 1.0
+print(x^2)
